@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "/PracticasNo2/",
+    base: "/Practica-Contador-No.2-Vue/",
     plugins: [vue()],
 })
